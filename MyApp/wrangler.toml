@@ -1,5 +1,4 @@
 name = "myapp"
-main = "dist/index.js"  # this file must exist; cannot be HTML
 account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c"
 workers_dev = true
 
