@@ -1,5 +1,9 @@
 name = "myapp"
-main = "dist/index.js" # or main JS output from Vue
-type = "javascript"
+main = "dist/index.js"  # this file must exist; cannot be HTML
 account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c"
 workers_dev = true
+
+# Configure this as a static site
+[[site]]
+bucket = "./dist"          # Path to Vite's build output
+entry-point = "workers-site"  
