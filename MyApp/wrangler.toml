@@ -5,4 +5,4 @@ account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c"
 workers_dev = true
 
 [site]
-bucket = "./dist"
+bucket = "dist"  # <- no quotes around relative path, points to your Vite build folder
