@@ -1,8 +1,9 @@
 name = "myapp"
 main = "workers-site/index.js"
 type = "javascript"
-account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c"
+account_id = "13c4ff533a0c64dc6d3c75c741b3d763"
 workers_dev = true
+compatibility_date = "2026-03-25"
 
 [site]
 bucket = "dist"  # <- no quotes around relative path, points to your Vite build folder
