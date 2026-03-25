@@ -1,5 +1,5 @@
 name = "myapp"
 main = "dist/index.html" # or main JS output from Vue
 type = "javascript"
-account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c
+account_id = "cfk_t6lBuKcTfaGHjKXcQmWX2z1BBpbGfeeFQuYsTuUS9da96e3c"
 workers_dev = true
