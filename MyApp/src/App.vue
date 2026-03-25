@@ -1,6 +1,7 @@
 <template>
   <div>
     Hello world.
-    Testing ClaudeFlare
+    Testing ClaudeFlare.
+    Testing Hello
   </div>
 </template>
